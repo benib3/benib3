@@ -2,4 +2,4 @@
 - 👀 I’m interested in app development and digital art.
 - 🌱 I’m currently searching for challenges.
 - 📫 How to reach me : instagram @beni.bambur && LinkedIn @benamin.bambur
-- 🌐 My website/portofolio is @ benaminbambur.tech
+- 🌐 My website/portofolio is @ benaminbambur.com
