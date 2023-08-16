@@ -1,7 +1,7 @@
 # Hi there, I'm Beni 👋
 [![Profile Views](https://komarev.com/ghpvc/?username=benib3&color=blueviolet)](https://github.com/benib3)
 
-I'm a passionate software developer with expertise in backend and mobile application development.
+I'm a passionate software developer with knowledge in backend and mobile application development.
 
 ![Alt Text](https://media.giphy.com/media/Cd7Y7tJ4pHbGM/giphy.gif)
 
@@ -11,6 +11,7 @@ I'm a passionate software developer with expertise in backend and mobile applica
 - **Mobile App Development:** React native
 - **Databases:** MySQL, MongoDB
 - **Version Control:** Git, GitHub, Gitlab
+- **Design:** Figma
 
 ## 🔥 Currently Employed @ ACME
 - **Position:** Backend developer
@@ -22,7 +23,7 @@ I'm always eager to expand my skill set and stay up-to-date with the latest tren
 - Microservices Architecture
 - Cloud Technologies (AWS)
 
-## 💬 Let's Connect
+## 💬 Let's Chat
 - LinkedIn: [Benamin Bambur](https://www.linkedin.com/in/benamin-bambur)
 - My Portofolio: [Portofolio Benamin Bambur](https://benaminbambur.com)
 
