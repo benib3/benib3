@@ -13,15 +13,22 @@ I'm a passionate software developer with knowledge in backend and mobile applica
 - **Version Control:** Git, GitHub, Gitlab
 - **Design:** Figma
 
-## 🔥 Currently Employed @ ACME
+
+## 🔥 Currently Employed @ B-One
+- **Position:** Mobile developer
+- **Duration:** 2023 - Currently
+- **Responsibilities:** I am responsible for creating and maintaining cross-platform mobile applications. Designing user interfaces is my game, writing efficient code, and ensuring our apps function seamlessly on both iOS and Android platforms is my aim.
+
+## 🔥 Past Employment 
+  @ ACME
 - **Position:** Backend developer
-- **Duration:** 2022 - Present
+- **Duration:** 2022 - 2023
 - **Responsibilities:** Designing and developing backend services, APIs, and databases to support applications. Summary, I just make things work.
   
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set and stay up-to-date with the latest trends. Currently, I'm diving deeper into:
 - Microservices Architecture
-- Cloud Technologies (AWS)
+- PHP Laravel
 
 ## 💬 Let's Chat
 - LinkedIn: [Benamin Bambur](https://www.linkedin.com/in/benamin-bambur)
