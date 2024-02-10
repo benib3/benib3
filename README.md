@@ -6,10 +6,10 @@ I'm a passionate software developer with knowledge in backend and mobile applica
 ![Alt Text](https://media.giphy.com/media/Cd7Y7tJ4pHbGM/giphy.gif)
 
 ## 🔧 Technologies & Tools
-- **Programming Languages:** Java, Javascript, Python, PHP
+- **Programming Languages:** Javascript, Python, PHP
 - **Backend Development:** Node.js, Express
 - **Mobile App Development:** React native
-- **Databases:** MySQL, MongoDB
+- **Databases:** MySQL
 - **Version Control:** Git, GitHub, Gitlab
 - **Design:** Figma
 
@@ -27,8 +27,8 @@ I'm a passionate software developer with knowledge in backend and mobile applica
   
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set and stay up-to-date with the latest trends. Currently, I'm diving deeper into:
-- Microservices Architecture
 - PHP Laravel
+- Linux
 
 ## 💬 Let's Chat
 - LinkedIn: [Benamin Bambur](https://www.linkedin.com/in/benamin-bambur)
