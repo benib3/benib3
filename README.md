@@ -7,23 +7,25 @@ I'm a passionate software developer with knowledge in backend and mobile applica
 
 ## 🔧 Technologies & Tools
 - **Programming Languages:** Javascript, Python, PHP
-- **Backend Development:** Node.js, Express
+- **Backend Development:** Node.js, Express, Laravel
 - **Mobile App Development:** React native
 - **Databases:** MySQL
 - **Version Control:** Git, GitHub, Gitlab
 - **Design:** Figma
 
 
-## 🔥 Currently Employed @ B-One
-- **Position:** Mobile developer
-- **Duration:** 2023 - Currently
-- **Responsibilities:** I am responsible for creating and maintaining cross-platform mobile applications. Designing user interfaces is my game, writing efficient code, and ensuring our apps function seamlessly on both iOS and Android platforms is my aim.
-
+## 🔥 Currently Employed 
+- TBA 👀
 ## 🔥 Past Employment 
   @ ACME
 - **Position:** Backend developer
 - **Duration:** 2022 - 2023
 - **Responsibilities:** Designing and developing backend services, APIs, and databases to support applications. Summary, I just make things work.
+ @ B-One
+- **Position:** Mobile developer
+- **Duration:** 2023 - 204
+- **Responsibilities:** I am responsible for creating and maintaining cross-platform mobile applications. Designing user interfaces is my game, writing efficient code, and ensuring our apps function seamlessly on both iOS and Android platforms is my aim.
+
   
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set and stay up-to-date with the latest trends. Currently, I'm diving deeper into:
