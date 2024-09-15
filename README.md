@@ -16,16 +16,23 @@ I'm a passionate software developer with knowledge in backend and mobile applica
 
 ## 🔥 Currently Employed 
 - TBA 👀
-## 🔥 Past Employment 
-  @ ACME
-- **Position:** Backend developer
-- **Duration:** 2022 - 2023
-- **Responsibilities:** Designing and developing backend services, APIs, and databases to support applications. Summary, I just make things work.
- @ B-One
-- **Position:** Mobile developer
-- **Duration:** 2023 - 204
-- **Responsibilities:** I am responsible for creating and maintaining cross-platform mobile applications. Designing user interfaces is my game, writing efficient code, and ensuring our apps function seamlessly on both iOS and Android platforms is my aim.
+## 🔥 Past Employment
 
+### ACME
+- **Position:** Backend Developer
+- **Duration:** 2022 - 2023
+- **Responsibilities:** 
+  - Designing and developing backend services, APIs, and databases to support applications.
+  - Ensuring the functionality and performance of backend systems.
+
+### B-ONE
+- **Position:** Mobile Developer
+- **Duration:** 2023 - 2024
+- **Responsibilities:** 
+  - Creating and maintaining cross-platform mobile applications.
+  - Designing user interfaces.
+  - Writing efficient code.
+  - Ensuring seamless functionality on both iOS and Android platforms.
   
 ## 🌱 Currently Learning
 I'm always eager to expand my skill set and stay up-to-date with the latest trends. Currently, I'm diving deeper into:
