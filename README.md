@@ -15,7 +15,12 @@ I'm a passionate software developer with knowledge in backend and mobile applica
 
 
 ## 🔥 Currently Employed 
-- TBA 👀
+### Spark 
+- **Position:** Backend Developer
+- **Duration:** 2024 - ~
+- **Responsibilities:** 
+  - Design, implement, and maintain server-side APIs for client-side consumption, ensuring seamless data exchange between the frontend and backend systems.
+  - OAuth & managing databases 
 ## 🔥 Past Employment
 
 ### ACME
